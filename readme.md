@@ -1,4 +1,4 @@
-# Instructions
+# Course and Faculty Evaluations Automator for AISIS
 
 ### Instructions:
 1. Log in to AISIS and open the Course and Faculty Evaluation page
